@@ -1,2 +1,0 @@
-# DEO
-Project EMCO
